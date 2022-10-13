@@ -1,0 +1,24 @@
+total 116
+drwxrwxrwx 2 root root  4096 Oct 10 23:42 .
+drwxr-xr-x 5 root root   111 Oct 10 04:25 ..
+-rwxrwxrwx 1 root root    30 Oct 10 05:52 0-hello_world.sh
+-rw-r--r-- 1 root root    33 Oct 10 07:51 1
+-rwxrwxrwx 1 root root   129 Oct 10 06:03 1-confused_smiley.sh
+-rw-r--r-- 1 root root 12288 Oct 10 06:00 .1-confused_smiley.sh.swn
+-rw-r--r-- 1 root root 12288 Oct 10 05:55 .1-confused_smiley.sh.swo
+-rw-r--r-- 1 root root 12288 Oct 10 05:39 .1-confused_smiley.sh.swp
+-rwxrwxrwx 1 root root    26 Oct 10 06:52 2-hellofile.sh
+-rw------- 1 root root 12288 Oct 10 06:49 .2-hellofile.sh.swp
+-rwxrwxrwx 1 root root    37 Oct 10 07:25 3-twofiles.sh
+-rwxrwxrwx 1 root root    33 Oct 10 07:52 4-lastlines.sh
+-rwxrwxrwx 1 root root    32 Oct 10 08:02 5-firstlines.sh
+-rwxrwxrwx 1 root root    35 Oct 10 08:21 6-third_line.sh
+-rwxrwxrwx 1 root root    55 Oct 10 23:21 7-file.sh
+-rwxrwxrwx 1 root root    35 Oct 10 23:37 8-cwd_state.sh
+-rwxrwxrwx 1 root root     1 Oct 10 05:16 Hello, World
+-rw-r--r-- 1 root root    28 Oct 10 08:17 iacta
+-rw-r--r-- 1 root root     0 Oct 10 23:42 ls_cwd_content
+-rw-r--r-- 1 root root     1 Oct 10 05:42 "(Ôo)\'
+-rwxrwxrwx 1 root root    60 Oct 10 04:36 README.md
+-rwxrwxrwx 1 root root    31 Oct 10 05:49 script.sh
+-rw-r--r-- 1 root root     1 Oct 10 05:49 TEST TEST TEST
